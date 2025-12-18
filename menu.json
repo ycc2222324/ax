@@ -5,7 +5,7 @@
     {
       "type": "item",
       "caption": "LUNDI",
-      "icon": "https://votre-image-lundi.jpg",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3f/JPEG_example_flower.jpg",
       "properties": {
         "description": "Menu du lundi : Film d'action"
       }
@@ -13,7 +13,7 @@
     {
       "type": "item",
       "caption": "MARDI",
-      "icon": "https://votre-image-mardi.jpg",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3f/JPEG_example_flower.jpg",
       "properties": {
         "description": "Menu du mardi : Documentaires"
       }
@@ -21,7 +21,7 @@
     {
       "type": "item",
       "caption": "MERCREDI",
-      "icon": "https://votre-image-mercredi.jpg",
+      "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3f/JPEG_example_flower.jpg",
       "properties": {
         "description": "Menu du mercredi : Dessins animés"
       }
