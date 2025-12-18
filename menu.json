@@ -1,6 +1,5 @@
 {
   "name": "Planning Automatique",
-  "version": "1.0.0", 
   "execute": "slideshow:0:5:1", 
   "menu": [
     {
