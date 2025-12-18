@@ -1,0 +1,30 @@
+{
+  "name": "Planning Automatique",
+  "execute": "slideshow:0:5:1", 
+  "menu": [
+    {
+      "type": "item",
+      "caption": "LUNDI",
+      "icon": "https://votre-image-lundi.jpg",
+      "properties": {
+        "description": "Menu du lundi : Film d'action"
+      }
+    },
+    {
+      "type": "item",
+      "caption": "MARDI",
+      "icon": "https://votre-image-mardi.jpg",
+      "properties": {
+        "description": "Menu du mardi : Documentaires"
+      }
+    },
+    {
+      "type": "item",
+      "caption": "MERCREDI",
+      "icon": "https://votre-image-mercredi.jpg",
+      "properties": {
+        "description": "Menu du mercredi : Dessins animés"
+      }
+    }
+  ]
+}
